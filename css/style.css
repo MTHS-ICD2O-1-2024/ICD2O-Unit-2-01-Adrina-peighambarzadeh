@@ -19,13 +19,13 @@
 }
 
 .page-content {
-  color: white;
+  color: rgb(0, 0, 0);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 body {
-  background-color: rgb(164, 156, 51);
+  background-color: rgb(188, 246, 165);
 }
 
 img {
